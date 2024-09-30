@@ -1,5 +1,3 @@
-Here are the email templates for web developers and designers, designed to streamline communication with clients:
-
 ## 1. For Discussing the Web Design Brief
 **Subject line:** I have a few questions about the web design brief you sent.
 
@@ -295,8 +293,3 @@ Let me know if you're interested!
 Kind regards,
 [Your name here].
 ``` 
-
-These templates can help streamline communication and save time while maintaining professionalism in client interactions.
-
-Citations:
-[1] https://atarim.io/blog/email-templates-for-web-developers-and-designers/
